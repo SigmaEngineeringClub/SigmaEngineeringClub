@@ -3,7 +3,7 @@ layout: libdoc/page
 title:  てすと
 date:   2025-02-12 13:06:08 +0900
 author: kptakahashi
-categories: kptakahashi/blog
+categories: kptakahashi-blog
 ---
 
 てすと
