@@ -17,7 +17,7 @@ order: 100
     <h3 id="tag.{{ category_name }}">{{ category_name }}</h3>
     <ul>
         {% for post in site.categories[category_name] %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li>{{ post.date }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </article>
