@@ -3,6 +3,7 @@ layout: libdoc/page
 title:  Gitを広めたいときに考えるべきこと
 date:   2025-02-18 11:26
 author: kptakahashi
+tags: Git ポエム
 categories: kptakahashi/blog
 ---
 

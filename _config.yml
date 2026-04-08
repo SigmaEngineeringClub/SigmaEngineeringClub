@@ -36,6 +36,9 @@ sass:
     style: compressed
 #exclude: ['/misc']
 
+collections:
+    authors:
+
 # ---------
 # LIBDOC CONFIGURATION
 # https://olivier3lanc.github.io/Jekyll-LibDoc/libdoc-config.html
